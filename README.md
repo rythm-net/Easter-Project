@@ -1,4 +1,4 @@
-## UFO Hunter Game build entirely on JavaScript
+## The Easter Bunny game build entirely on Java
 
 ### Пловдивски Университет - Шаблони за проектиране (2023) - Задача за оценка по упражнения
 
